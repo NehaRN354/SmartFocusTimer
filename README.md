@@ -39,34 +39,6 @@ smartfocustimer/
  │              └── pause_reset.wav
 ```
 
----
 
-### 🚀 Getting Started
 
-1. Clone the repo:
 
-   ```bash
-   git clone https://github.com/your-username/smartfocustimer.git
-   ```
-2. Open in **IntelliJ IDEA** or any IDE with JavaFX support.
-3. Add your local JavaFX SDK path under VM options:
-
-   ```
-   --module-path "path-to-javafx/lib" --add-modules javafx.controls,javafx.fxml,javafx.media
-   ```
-4. Run `Main.java` to start the app!
-
----
-
-### 💡 Future Ideas
-
-* Custom theme selector (light/dark/forest/ocean)
-* Focus statistics & history tracking
-* Integration with Spotify or YouTube playlists
-* Mobile (Android) port using Gluon or Compose for Desktop
-
----
-
-### 🧘‍♀️ Stay Focused. Stay Chill.
-
-Smart Focus Timer – code, chill, and focus with rhythm.
